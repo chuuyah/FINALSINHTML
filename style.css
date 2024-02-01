@@ -1,0 +1,192 @@
+header {
+  background-color: #853A9D;
+  text-align: center;
+  padding: 20px 0;
+}
+.Logo {
+  font-size: 50pt;
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+}
+nav {
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #D3FFF4;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.banner {
+  text-align: center;
+  color: #663399;
+  padding: 50px 20px;
+}
+.banner img {
+  width: 40%;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+}
+.content {
+  text-align: center;
+  color: #663399;
+  padding: 20px;
+}
+h2 {
+  text-align:center;
+  color:#FF1493 ;
+}
+h1 {
+  text-align:center;
+  color: #FF1493;
+  font-size: 50pt
+}
+.content ul {
+  list-style: none;
+  padding-bottom: 10%;
+}
+
+.Meetme {
+  text-align: center;
+  margin: 50px auto;
+  max-width: 80%;
+}
+.Meetme img {
+  border-radius: 50%;
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+.Meetme p {
+  border: 4px solid powderblue;
+  background-color: powderblue;
+  text-align: center;
+  padding: 20px;
+  font-size: 15pt;
+  margin-top: 20px;
+  color: #663399;
+}
+
+.snd {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.memes img {
+  border-radius: 20%;
+  width: 150px;
+  margin: 20px;
+}
+
+.elem, .hs, .shs {
+  text-align: center;
+  margin: 20px;
+  color: white;
+}
+.elem img, .hs img, .shs img {
+  border-radius: 20%;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #663399;
+}
+.tl, .first, .secen {
+  text-align: center;
+  margin: 50px auto;
+  max-width: 80%;
+}
+.first img, .secen img {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+.tl p, .first p, .secen p {
+  border: 2px solid #FF8FAC;
+  background-color: #FF8FAC;
+  font-size: 1.2rem;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+footer {
+  border 2px solid #853A9D;
+  background-color: #853A9D;
+  text-align: center;
+  color: #D3FFF4;
+  padding: 20px 0;
+}
+
+.myc {
+  text-align: center;
+  padding: 20px;
+}
+.myc p {
+  font-size: 1.5rem;
+  margin: 0;
+}
+.contact {
+  border: 4px solid black;
+  background-color: #DDBDE5;
+  padding: 20px;
+  text-align: center;
+  margin: 20px;
+}
+.contact p {
+  font-size: 1.5rem;
+  margin: 0;
+}
+.contact a img {
+  width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.forms {
+  text-align: center;
+  margin: 20px;
+}
+#cf {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #DC143C;
+  text-align: center;
+}
+form {
+  border: 4px solid black;
+  background-color: #e6e8fa;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  max-width: 600px;
+}
+form label,
+form input,
+form textarea,
+form input[type="submit"] {
+  display: block;
+  margin: 10px auto;
+  width: 80%;
+  max-width: 400px;
+  font-size: 1.2rem;
+}
+form textarea {
+  resize: vertical;
+}
