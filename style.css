@@ -1,9 +1,4 @@
-
-body {
-  background-image:url("./images/images/lilacsky.jpg");
-}
-  
-header {
+  header {
   background-color: #853A9D;
   text-align: center;
   padding: 20px 0;
@@ -135,7 +130,7 @@ footer {
   border 2px solid #853A9D;
   background-color: #853A9D;
   text-align: center;
-  color: #D3FFF4;
+  color: white;
   padding: 20px 0;
 }
 
