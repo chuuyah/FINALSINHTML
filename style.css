@@ -1,4 +1,7 @@
-  header {
+body{
+  background-image: url('../images/lilacsky.jpg');
+}
+header {
   background-color: #853A9D;
   text-align: center;
   padding: 20px 0;
